@@ -31,7 +31,7 @@ The purpose of this assignment is to explore how parallelization can enhance the
 
 1. **Clone the Repository**:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git cd your-repo-name
+git clone https://github.com/Windz-GameDev/COP6616_Assignment2_MPI_Experiments cd COP6616_Assignment2_MPI_Experiments
 ```
 
 2. **Navigate to the Problem Directory**:
