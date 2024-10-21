@@ -31,11 +31,16 @@ The purpose of this assignment is to explore how parallelization can enhance the
 
 1. **Clone the Repository**:
 ```bash
-git clone https://github.com/Windz-GameDev/COP6616_Assignment2_MPI_Experiments cd COP6616_Assignment2_MPI_Experiments
+git clone https://github.com/Windz-GameDev/COP6616_Assignment2_MPI_Experiments 
 ```
 
-2. **Navigate to the Problem Directory**:
+2. **CD into the Repo**:
+```bash
+cd COP6616_Assignment2_MPI_Experiments
+```
+
+3. **Navigate to the Problem Directory**:
    - Each problem has its own directory with specific instructions in the corresponding README file in the readme directory.
 
-3. **Follow the Instructions**:
+4. **Follow the Instructions**:
    - Refer to the README files for each problem for detailed setup and execution instructions.
